@@ -1,3 +1,3 @@
 # aulaDevOps180820
-Primeira aula - DevOps
-Arthur Rocha Cavalcante dos Santos
+Primeira aula - DevOps<br>
+Arthur Rocha Cavalcante dos Santos<br>
